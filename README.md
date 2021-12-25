@@ -9,13 +9,18 @@ Contributers: Yaman Kumar Sahu,Amitesh Patra,Rohit Kushwaha, Rishabh Biswal
 
 
 
-Guided By:                                                                                                                                           Submitted By:
-Chaitali Mam                                                                                                                                      F11 - Amitesh Patra
-Professor,CSE  Department                                                                                                                         F60 - Yaman Kumar Sahu
-BIT Durg                                                                                                                                          F63 - Rishabh Biswal
-                                                                                                                                                  F64 - Rohit Kushwaha
-                                                                                                                                                  
-                                                                                                                                                  Branch - CSE
-                                                                                                                                                  Sem -  3rd
-                                                                                                                                                  Section - F
-                                                                                                                                                                                                                                                                                      
+Guided By:                                                                                                                                          
+Chaitali Mam                                                                                                                                     
+Professor,CSE  Department                                                                                                                       
+BIT Durg                                                                                                                                         
+                                                                                                                                                
+                                                                                                                                                                                   Submitted By:                                                                     
+F11 - Amitesh Patra
+F60 - Yaman Kumar Sahu
+F63 - Rishabh Biswal
+F64 - Rohit Kushwaha
+
+ Branch - CSE
+ Sem -  3rd
+ Section - F
+                                                                                                                                                                            
