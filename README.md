@@ -21,6 +21,8 @@ F63 - Rishabh Biswal
 F64 - Rohit Kushwaha
 
  Branch - CSE
+ 
  Sem -  3rd
+ 
  Section - F
                                                                                                                                                                             
